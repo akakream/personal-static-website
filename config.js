@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://akakream.netlify.app',
   pathPrefix: '/',
   title: 'akakream',
   subtitle: 'developer',
@@ -16,6 +16,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: 'Portfolio',
+      path: '/pages/portfolio'
+    },
+    {
       label: 'About me',
       path: '/pages/about'
     },
@@ -25,19 +29,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'akakream',
+    name: 'Ahmet Kerem Aksoy',
     photo: '/photo.jpg',
     bio: 'developer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'akakream@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'https://twitter.com/AhmetKeremAksoy',
+      github: 'https://github.com/akakream',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'https://www.linkedin.com/in/akeremaksoy/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
